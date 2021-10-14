@@ -12,18 +12,12 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 ## Setup do projeto
 
 - Angular: 8+
-
-## Como Rodar?
-
-- Instale as dependências usando o comando `npm install`
-- Na raiz do repositório, rode este comando `ng serve` para iniciar o servidor de desenvolvimento.
-- A Aplicação estará disponível na porta `http://localhost:4200/`
-
-<br/>
+- @angular/fire
 
 ### Leia com atenção! ⚠️
 
 **1 -** Nosso desafio consiste de uma aplicação (CRUD). No layout proposto há um botão de filtragem dos itens, isso é um plus que pode contar mais pontos. Esta aplicação consiste de uma tela de login (consultar usuário no fim deste arquivo), para que você tenha acesso à tela de listagem (home). Você poderá utilizar a lib de components que quiser, mas desde que siga o mínimo do layout proposto. Você pode implementar novas features, melhorar o design, tudo que você fizer contará pontos!
+Link do desing: 
 
 **2 -** Para realização do teste você deve realizar uma integração com o Cloud Firestore do Google. Para criação do CRUD em caso de duvidas acesse o link: `https://firebase.google.com/docs/firestore/quickstart`
 
