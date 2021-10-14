@@ -16,8 +16,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 
 ### Leia com atenção! ⚠️
 
-**1 -** Nosso desafio consiste de uma aplicação (CRUD). No layout proposto há um botão de filtragem dos itens, isso é um plus que pode contar mais pontos. Esta aplicação consiste de uma tela de login (consultar usuário no fim deste arquivo), para que você tenha acesso à tela de listagem (home). Você poderá utilizar a lib de components que quiser, mas desde que siga o mínimo do layout proposto. Você pode implementar novas features, melhorar o design, tudo que você fizer contará pontos!
-Link do desing: 
+**1 -** Nosso desafio consiste de um cadastro de Funcionário e seus dependentes (CRUD). Você poderá utilizar a lib de components que quiser. Lembre-se, tudo que você fizer contará pontos!
 
 **2 -** Para realização do teste você deve realizar uma integração com o Cloud Firestore do Google. Para criação do CRUD em caso de duvidas acesse o link: `https://firebase.google.com/docs/firestore/quickstart`
 
